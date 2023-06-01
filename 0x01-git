@@ -1,7 +1,7 @@
 $ git add .
 $ git commit -m "0x01-git'
 
-$ git init bash, c, js
+$ git init bash, c,
 c/c_is_fun.c newfile.txt
 js/main.js newfile.txt
 js/index.js newfile.txt

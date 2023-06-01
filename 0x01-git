@@ -17,3 +17,4 @@ git commit -m "bash/alx"
 
 git add newFile.txt
 git commit -m "bash/school"
+

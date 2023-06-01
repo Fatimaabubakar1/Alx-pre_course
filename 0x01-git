@@ -1,2 +1,19 @@
 git add .
 git commit -m "0x01-git'
+
+git init bash, c, js
+c/c_is_fun.c newfile.txt
+js/main.js newfile.txt
+js/index.js newfile.txt
+
+#!/bin/bash
+echo "ALX"
+
+#!/bin/bash
+echo "School"
+
+git add newFile.txt
+git commit -m "bash/alx"
+
+git add newFile.txt
+git commit -m "bash/school"
